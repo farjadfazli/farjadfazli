@@ -7,7 +7,7 @@ I'm Farjad, nice to meet you!
 - 👯 I’m looking to collaborate on setting up my GitHub README.
 - 🤔 I’m looking for help with setting up my GitHub README.
 - 💬 Ask me about my GitHub README.
-- 📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/farjadfazli)!
+- 📫 [Connect with me on LinkedIn!](https://www.linkedin.com/in/farjadfazli)
 
 <!--
 **farjadfazli/farjadfazli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
