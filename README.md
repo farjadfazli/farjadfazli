@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Farjad, nice to meet you!
+I'm Farjad, it's nice to meet you!
 
 - 🔭 I’m currently working on setting up my GitHub README.
 - 🌱 I’m currently learning how to set up my GitHub README.
