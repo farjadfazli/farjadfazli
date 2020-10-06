@@ -2,8 +2,6 @@
 
 I am a Full Stack Web Developer with a background in network operations and system administration. 
 
-In recent years I have seen support roles in IT (like the one's I've had) get outsourced and/or automated. So I decided to pivot into the engineering side of things for more opportunities where I could continue to learn and grow.
-
 I enjoy traveling, hiking, and all things nature! 
 
 📫 [Connect with me on LinkedIn!](https://www.linkedin.com/in/farjadfazli)
