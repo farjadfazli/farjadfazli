@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I am a Full Stack Web Developer with a background in network operations and system administration. 
+I am a software engineer with a background in network operations and system administration. 
 
 I enjoy traveling, hiking, and all things nature! 
 
