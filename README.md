@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I am a software engineer with a background in network operations and system administration. 
+I am a software engineer with a background in DevOps, InfoSec, and compliance. 
 
 I enjoy traveling, hiking, and all things nature! 
 
